@@ -1,0 +1,45 @@
+leftnav:
+- identifier: 2df4d788-cfa2-f72e-ff75-6f3cdaeb13c8
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: df93b3d3-5c0e-2179-e7c0-1593cba63d85
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: b680dde9-4b79-5371-7580-cff5e0d420d9
+  name: This Course at MIT
+  url: /pages/this-course-at-mit
+  weight: 30
+- identifier: 704190e8-756c-601b-1e7d-b54035f50703
+  name: Readings
+  url: /pages/readings
+  weight: 40
+- identifier: 685480e6-96f7-3c11-88af-5bb5057d8d98
+  name: Assignments
+  url: /pages/assignments/
+  weight: 50
+- identifier: afec655a-84e5-91dc-46a3-3677892e7504
+  name: Homework and Class Preparation
+  parent: 685480e6-96f7-3c11-88af-5bb5057d8d98
+  url: /pages/assignments/homework-and-class-preparation
+  weight: 60
+- identifier: 9c792343-837a-990f-cdb8-7552b6ece75c
+  name: Major Writing Assignments
+  parent: 685480e6-96f7-3c11-88af-5bb5057d8d98
+  url: /pages/assignments/major-writing-assignments
+  weight: 70
+- identifier: 43af068d-ac85-5ac7-9edc-2451cfe2dad6
+  name: 'Revision: A Multi-Step Process'
+  parent: 685480e6-96f7-3c11-88af-5bb5057d8d98
+  url: /pages/assignments/revision-a-multi-step-process
+  weight: 80
+- identifier: cda9baad-6032-0244-e9b7-58110cea9bb7
+  name: Oral Presentations
+  parent: 685480e6-96f7-3c11-88af-5bb5057d8d98
+  url: /pages/assignments/oral-presentations
+  weight: 90
+- identifier: 02c7f260-bda3-4b68-998b-f23593a1651d
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 100

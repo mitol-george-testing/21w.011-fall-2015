@@ -1,0 +1,44 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Rhetoric"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Social Welfare"
+    ],
+    [
+      "Society",
+      "Global Poverty"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "63d1aa03-136b-4aa8-0c42-fae122078527"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Writing and Rhetoric: Rhetoric and Contemporary Issues",
+  "course_description": "This course seeks to provide a supportive context for students to grow significantly as writers by discovering and engaging with issues that matter to them. Writing on social and ethical issues, we can see ourselves within a tradition of authors such as Charles Dickens, Frederick Douglass, Elizabeth Cady Stanton, George Orwell, Rachel Carson, John F. Kennedy and Martin Luther King, Jr., who have used the power of the pen to inspire social change.\n",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.011",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
